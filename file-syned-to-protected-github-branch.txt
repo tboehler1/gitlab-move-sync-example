@@ -1,0 +1,2 @@
+If this file syncs to GitHub's protected master branch then everything works
+well!
