@@ -1,0 +1,2 @@
+File used for testing whether branches and PRs are transferred over to GitLab
+on import.
